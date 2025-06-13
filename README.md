@@ -6,10 +6,7 @@ Potential False Positives: While effective, the Haar Cascade method can sometime
 
 +How to Use
 Installation: To get started, you'll need to install the opencv-python library. You can do this easily using pip:
-
 ```bash
-git clone [https://github.com/your-username/your-car-detection-repo.git](https://github.com/your-username/your-car-detection-repo.git)
-cd your-car-detection-repo
 pip install opencv-python numpy
 
 
